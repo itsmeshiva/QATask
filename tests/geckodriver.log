@@ -1,0 +1,511 @@
+1702818568656	geckodriver	INFO	Listening on 127.0.0.1:52842
+1702818571760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilexoiUG6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702818572885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702818573031	Marionette	INFO	Listening on port 52852
+WebDriver BiDi listening on ws://127.0.0.1:52843
+Read port: 52852
+1702818573475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52843/devtools/browser/d7232d8e-43ff-49f6-bd31-c9d8a6753b31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702818604316	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702818736555	Marionette	INFO	Stopped listening on port 52852
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilerlGO0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702818609831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702818609947	Marionette	INFO	Listening on port 52903
+WebDriver BiDi listening on ws://127.0.0.1:52896
+Read port: 52903
+1702818610336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52896/devtools/browser/bcb1f882-5afd-486b-a735-3cbb7e22f8b5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702818640880	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702818734177	Marionette	INFO	Stopped listening on port 52903
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1702818734318	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
+/parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702818661689	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702818733617	Marionette	INFO	Stopped listening on port 52952
+Dynamically enable window occlusion 1
+1702819312660	geckodriver	INFO	Listening on 127.0.0.1:53060
+1702819318563	geckodriver	INFO	Listening on 127.0.0.1:53069
+1702819328109	geckodriver	INFO	Listening on 127.0.0.1:53079
+1702819869431	geckodriver	INFO	Listening on 127.0.0.1:53157
+1702819875256	geckodriver	INFO	Listening on 127.0.0.1:53166
+1702819884767	geckodriver	INFO	Listening on 127.0.0.1:53176
+1702820089145	geckodriver	INFO	Listening on 127.0.0.1:53199
+1702820092185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileLF4k5j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820093232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820093381	Marionette	INFO	Listening on port 53207
+Read port: 53207
+WebDriver BiDi listening on ws://127.0.0.1:53200
+1702820093635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53200/devtools/browser/1f8e2068-e13f-47a2-b389-64e2ccd6f0db
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820125188	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "53251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileVSiudu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820121079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820121221	Marionette	INFO	Listening on port 53258
+WebDriver BiDi listening on ws://127.0.0.1:53251
+Read port: 53258
+1702820121633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53251/devtools/browser/a9a3390e-107a-49c2-8948-c048843e3530
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820152191	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "53303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileLLVtJO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820145732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820145863	Marionette	INFO	Listening on port 53310
+WebDriver BiDi listening on ws://127.0.0.1:53303
+Read port: 53310
+1702820146221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53303/devtools/browser/4e74e0d0-7604-4064-9a0c-1bf2a91d2da0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820176448	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702820493173	geckodriver	INFO	Listening on 127.0.0.1:53398
+1702820496219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileNpFATL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820497137	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820497257	Marionette	INFO	Listening on port 53406
+WebDriver BiDi listening on ws://127.0.0.1:53399
+Read port: 53406
+1702820497662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53399/devtools/browser/a6db8866-638a-428a-8800-cfff9da5cd59
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820530327	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "53452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileqON7WH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820525123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820525243	Marionette	INFO	Listening on port 53459
+WebDriver BiDi listening on ws://127.0.0.1:53452
+Read port: 53459
+1702820525620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53452/devtools/browser/6a85fd56-06e4-4e54-b520-a3875dce021f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820557903	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "53502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile87YHcs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820548642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820548794	Marionette	INFO	Listening on port 53509
+WebDriver BiDi listening on ws://127.0.0.1:53502
+Read port: 53509
+1702820549185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53502/devtools/browser/c166ddf8-212e-4d1f-8c67-0bec7ebc532b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820579814	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "53554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileN8vqHj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820571219	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820571341	Marionette	INFO	Listening on port 53561
+WebDriver BiDi listening on ws://127.0.0.1:53554
+Read port: 53561
+1702820571729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53554/devtools/browser/5da564a8-1e52-43cf-83f1-efca7928bf15
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820602283	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "53604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile2sXumB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702820596182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702820596305	Marionette	INFO	Listening on port 53611
+WebDriver BiDi listening on ws://127.0.0.1:53604
+Read port: 53611
+1702820596681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53604/devtools/browser/037a3977-893f-4320-b503-8a0d01a55e4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702820627214	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702821062742	geckodriver	INFO	Listening on 127.0.0.1:53797
+1702821065806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53798" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileToXwiI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702821066769	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702821066888	Marionette	INFO	Listening on port 53805
+WebDriver BiDi listening on ws://127.0.0.1:53798
+Read port: 53805
+1702821067257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53798/devtools/browser/acf2bcf4-f87e-41e8-96e4-727152c2c275
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702821098025	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702821356623	Marionette	INFO	Stopped listening on port 53805
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1702821356842	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
+pes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702821161789	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702821359776	Marionette	INFO	Stopped listening on port 53857
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile9PaJG0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702821154670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702821154785	Marionette	INFO	Listening on port 53909
+WebDriver BiDi listening on ws://127.0.0.1:53902
+Read port: 53909
+1702821155158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53902/devtools/browser/2e5992fd-ad34-4844-8b24-8f1dc2f8c6fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702821184804	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702821359057	Marionette	INFO	Stopped listening on port 53909
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileZB7dZb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702821179881	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702821180034	Marionette	INFO	Listening on port 53961
+WebDriver BiDi listening on ws://127.0.0.1:53954
+Read port: 53961
+1702821180633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53954/devtools/browser/814a58de-545e-4835-82bc-3b26ce5bf1bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702821211431	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702821358305	Marionette	INFO	Stopped listening on port 53961
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofiled5RbXT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702821207009	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702821207152	Marionette	INFO	Listening on port 54012
+Read port: 54012
+WebDriver BiDi listening on ws://127.0.0.1:54005
+1702821207374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54005/devtools/browser/668ca549-be08-4637-8f32-e8055c3fa6fd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702821238401	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702824502482	Marionette	INFO	Stopped listening on port 54012
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1702824502675	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSes1702824504061	Marionette	INFO	Stopped listening on port 54062
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1702824504204	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+tools/browser/331f7bbd-aa36-4388-a2b3-3d081c59817c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824493985	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702824506764	Marionette	INFO	Stopped listening on port 54343
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileik2BgP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702824488370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702824488490	Marionette	INFO	Listening on port 54395
+WebDriver BiDi listening on ws://127.0.0.1:54388
+Read port: 54395
+1702824488836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54388/devtools/browser/c8fb5ee2-6b17-44ba-a999-6aa7116b1618
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824509006	Marionette	INFO	Stopped listening on port 54395
+Dynamically enable window occlusion 1
+1702824510075	geckodriver	INFO	Listening on 127.0.0.1:54435
+1702824513136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile655luc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702824513658	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702824513778	Marionette	INFO	Listening on port 54444
+WebDriver BiDi listening on ws://127.0.0.1:54436
+Read port: 54444
+1702824514225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54436/devtools/browser/d804d018-5aab-41dd-b2c6-d2c994d8d69f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824545526	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702824633072	Marionette	INFO	Stopped listening on port 54444
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilexW3HvD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702824534818	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702824534956	Marionette	INFO	Listening on port 54494
+WebDriver BiDi listening on ws://127.0.0.1:54487
+Read port: 54494
+1702824535383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54487/devtools/browser/eb424117-db94-4870-ae14-9b70f30b686a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824566205	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702824634639	Marionette	INFO	Stopped listening on port 54494
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile93stwu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702824563550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702824563737	Marionette	INFO	Listening on port 54541
+WebDriver BiDi listening on ws://127.0.0.1:54534
+Read port: 54541
+1702824564232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54534/devtools/browser/6610b396-649a-4f63-aa19-9e039b5bb23a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824593610	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824673924	Marionette	INFO	Stopped listening on port 54541
+Dynamically enable window occlusion 1
+g MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702824588875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702824588993	Marionette	INFO	Listening on port 54591
+WebDriver BiDi listening on ws://127.0.0.1:54584
+Read port: 54591
+1702824589371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54584/devtools/browser/a837151b-4761-45d4-94ab-ad6a3c81fb42
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702824618925	Marionette	INFO	Stopped listening on port 54591
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 321))
+1702824619057	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1702825038669	geckodriver	INFO	Listening on 127.0.0.1:54641
+1702825041712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile1OH0Ix"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825042461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825042583	Marionette	INFO	Listening on port 54649
+WebDriver BiDi listening on ws://127.0.0.1:54642
+Read port: 54649
+1702825042947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54642/devtools/browser/6b6889ca-d7b3-44e2-8995-b468389756dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825061429	Marionette	INFO	Stopped listening on port 54649
+Dynamically enable window occlusion 1
+1702825071806	geckodriver	INFO	Listening on 127.0.0.1:54689
+1702825074871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileyUTgyo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825075405	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825075530	Marionette	INFO	Listening on port 54697
+WebDriver BiDi listening on ws://127.0.0.1:54690
+Read port: 54697
+1702825075707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54690/devtools/browser/6c6befb2-2387-4a4e-893f-bdad8d77c905
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825106808	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702825345252	Marionette	INFO	Stopped listening on port 54697
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofile2H6lYd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825114537	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825114650	Marionette	INFO	Listening on port 54746
+WebDriver BiDi listening on ws://127.0.0.1:54739
+Read port: 54746
+1702825114994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54739/devtools/browser/1f0739b0-16b8-4361-af79-087d283acc7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825124055	Marionette	INFO	Stopped listening on port 54746
+Dynamically enable window occlusion 1
+1702825262019	geckodriver	INFO	Listening on 127.0.0.1:54792
+1702825265074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileT5Cakb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825265653	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825265796	Marionette	INFO	Listening on port 54800
+WebDriver BiDi listening on ws://127.0.0.1:54793
+Read port: 54800
+1702825266262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54793/devtools/browser/4e5889a5-630b-41f0-b7ed-5db7849a9e87
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825276869	Marionette	INFO	Stopped listening on port 54800
+Dynamically enable window occlusion 1
+1702825286051	geckodriver	INFO	Listening on 127.0.0.1:54838
+1702825289104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofiledqsZX9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825289614	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825289733	Marionette	INFO	Listening on port 54846
+WebDriver BiDi listening on ws://127.0.0.1:54839
+Read port: 54846
+1702825290083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54839/devtools/browser/dbe4078b-7f46-44af-bd79-014531b5dbfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825316980	Marionette	INFO	Stopped listening on port 54846
+Dynamically enable window occlusion 1
+1702825327518	geckodriver	INFO	Listening on 127.0.0.1:54886
+1702825330565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileDhlMpj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825331060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825331181	Marionette	INFO	Listening on port 54894
+WebDriver BiDi listening on ws://127.0.0.1:54887
+Read port: 54894
+1702825331524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54887/devtools/browser/f1a80497-62a5-40c3-a640-432639efd3cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825342519	Marionette	INFO	Stopped listening on port 54894
+Dynamically enable window occlusion 1
+1702825446943	geckodriver	INFO	Listening on 127.0.0.1:54936
+1702825449997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilepIHxKo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825450525	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825450636	Marionette	INFO	Listening on port 54944
+WebDriver BiDi listening on ws://127.0.0.1:54937
+Read port: 54944
+1702825451021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54937/devtools/browser/72bd1e84-63ce-4c5b-be09-1424553143af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825463536	Marionette	INFO	Stopped listening on port 54944
+Dynamically enable window occlusion 1
+1702825476258	geckodriver	INFO	Listening on 127.0.0.1:54985
+1702825479317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilet0ENv9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825480217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825480373	Marionette	INFO	Listening on port 54993
+WebDriver BiDi listening on ws://127.0.0.1:54986
+Read port: 54993
+1702825480620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54986/devtools/browser/6577a862-2ef1-411f-85a3-17a380346dd6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825506354	Marionette	INFO	Stopped listening on port 54993
+Dynamically enable window occlusion 1
+1702825516748	geckodriver	INFO	Listening on 127.0.0.1:55035
+1702825519825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilesvt1K0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825520373	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825520486	Marionette	INFO	Listening on port 55043
+Read port: 55043
+WebDriver BiDi listening on ws://127.0.0.1:55036
+1702825520677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55036/devtools/browser/ce8f9249-2106-4bab-b410-b93a8ecbc202
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825545268	Marionette	INFO	Stopped listening on port 55043
+Dynamically enable window occlusion 1
+1702825560114	geckodriver	INFO	Listening on 127.0.0.1:55085
+1702825563206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileaKPxBr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825563721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825563842	Marionette	INFO	Listening on port 55093
+WebDriver BiDi listening on ws://127.0.0.1:55086
+Read port: 55093
+1702825564189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55086/devtools/browser/ced26a54-64ab-4411-a247-65ccc262d359
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825574511	Marionette	INFO	Stopped listening on port 55093
+Dynamically enable window occlusion 1
+1702825586484	geckodriver	INFO	Listening on 127.0.0.1:55133
+1702825589563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofilelxaaIh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825590117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825590230	Marionette	INFO	Listening on port 55141
+Read port: 55141
+WebDriver BiDi listening on ws://127.0.0.1:55134
+1702825590530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55134/devtools/browser/0f863862-8cae-4a3c-bb54-de924c53126a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825599628	Marionette	INFO	Stopped listening on port 55141
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1702825612541	geckodriver	INFO	Listening on 127.0.0.1:55174
+1702825615589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHIVA\\AppData\\Local\\Temp\\rust_mozprofileQsaVEY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702825616103	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702825616216	Marionette	INFO	Listening on port 55182
+WebDriver BiDi listening on ws://127.0.0.1:55175
+Read port: 55182
+1702825616567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55175/devtools/browser/f71ecc5b-bd9d-43b2-b6ae-eac95f3ac594
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1702825627788	Marionette	INFO	Stopped listening on port 55182
+Dynamically enable window occlusion 1
